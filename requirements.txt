@@ -5,3 +5,5 @@ numpy
 pyotp
 qrcode
 bcrypt 
+client
+Client
