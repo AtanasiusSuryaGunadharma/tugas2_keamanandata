@@ -280,6 +280,7 @@ if "auth" not in st.session_state:
 st.title("🔐 Implementasi MFA/2FA (Streamlit)")
 
 with st.sidebar:
+    st.markdown("## Atanasius Surya Gunadharma_220711667")
     st.markdown("### Navigasi")
     page = st.radio(
         "Pilih halaman:",
